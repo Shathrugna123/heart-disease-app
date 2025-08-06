@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+numpy
+joblib
+scikit-learn
+streamlit
+requests
